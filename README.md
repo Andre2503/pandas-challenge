@@ -12,7 +12,7 @@ This repository contains the following key components:
 
 - `PyCitySchools_starter.ipynb`: A Jupyter Notebook serving as the central script for the data analysis. It contains a series of data frames that summarize the data, as well as various statistical calculations using pandas.
 
-- `Analysis folder`: This houses the exported Excel spreadsheet I used to conduct further analysis and help me visualise the data analised, and the Analysis_Report.md file—a comprehensive written record of conclusions drawn from the analysis.
+- `Analysis folder`: This houses the exported Excel spreadsheet I used to conduct further analysis and help me visualise the data analised, and the `Analysis_Report.md` a comprehensive written record of conclusions drawn from the analysis.
 
 - `README.md`: you are reading it now! 
 
