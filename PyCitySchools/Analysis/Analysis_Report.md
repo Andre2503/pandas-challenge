@@ -29,7 +29,7 @@ An analysis of reading and math scores led to the following conclusions:
 
 1. **Budget per Student Impact**: Schools with the highest budget per student ($645 - $680), which were predominantly large government schools, exhibited the lowest average reading and math scores (1.15 and 1.14 standard deviation points below the mean, respectively).
 
-2. **School Size Impact**: Large government schools with 2000 to 5000 students had lower math and reading scores compared to medium and small schools, which were independent. It suggests that school size might have a negative impact on academic outcomes for government schools.
+2. **School Size Impact**: Large schools with 2000 to 5000 students had lower math and reading scores compared to medium and small schools, which were all independent. It suggests that school size might have an impact on academic outcomes. However, it is worth noting that large school were predominately government schools. 
 
 3. **School Type Impact**: When considering the overall averages, independent schools had slightly higher average reading and math scores (approximately 2.1% higher) than government schools.
 
